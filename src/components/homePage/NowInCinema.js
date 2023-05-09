@@ -103,14 +103,25 @@ export default function NowInCinema() {
         sx={{
           width: "100%",
           height: "100%",
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "center",
+          flexWrap: "wrap",
         }}
       >
         {cinemas.map((item, index) => (
-          <>
-            <img src={item.img} alt="poter" />
-            <Typography variant="h4">{item.name}</Typography>
-            {console.log(item)}
-          </>
+          <Box sx={{
+            width: "24%",
+            height: "500px",
+            border: "1px solid #fff",
+            marginBottom: "20px"
+
+          }} >
+            <img src={item.img} alt="poter" width={"100%"} height={"90%"} />
+            <span>{item.score}</span>
+            <Typography variant="h5">{item.name}</Typography>
+            <Typography variant="h6">{item.category}</Typography>
+          </Box>
         ))}
       </Box>
     </Box>
