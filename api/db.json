@@ -1,0 +1,52 @@
+{
+    "nowInCinema": [
+        {
+            "name": "Побег из Претории",
+            "category": "Триллер",
+            "score": "6.70",
+            "img": "../../img/homePage/poter.png"
+        },
+        {
+            "name": "Джокер",
+            "category": "Триллер, драма, криминал",
+            "score": "8.50",
+            "img": "../../img/homePage/joker.png"
+        },
+        {
+            "name": "Звёздные войны: Скайуокер. Восход",
+            "category": "Фантастика, фэнтези, боевик, приключения",
+            "score": "6.70",
+            "img": "../../img/homePage/img3.png"
+        },
+        {
+            "name": "Джентльмены",
+            "category": "Боевик, комедия, криминал",
+            "score": "8.50",
+            "img": "../../img/homePage/img4.png"
+        },
+        {
+            "name": "Ford против Ferrari",
+            "category": "Биография, спорт, драма, боевик",
+            "score": "8.10",
+            "img": "../../img/homePage/img5.png"
+        },
+        {
+            "name": "3022",
+            "category": "Фантастика, триллер",
+            "score": "4.90",
+            "img": "../../img/homePage/img6.png"
+        },
+        {
+            "name": "Хищные птицы: Потрясающая история Харли Квинн",
+            "category": "Боевик, криминал, комедия",
+            "score": "6.20",
+            "img": "../../img/homePage/img7.png"
+        },
+        {
+            "name": "Плохие парни навсегда",
+            "category": "Боевик, комедия, криминал",
+            "score": "6.90",
+            "img": "../../img/homePage/img8.png"
+        }
+    ]
+}

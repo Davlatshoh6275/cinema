@@ -1,6 +1,6 @@
 import { Box } from "@mui/system";
 import React from "react";
-import HomePage from "./components/HomePage";
+import HomePage from "./components/homePage/HomePage";
 import bgImg from "./img/homePage/bg.png";
 import logo from "./img/homePage/logo.png";
 import WhatsAppIcon from "@mui/icons-material/WhatsApp";
