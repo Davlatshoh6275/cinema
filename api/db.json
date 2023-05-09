@@ -1,52 +1,52 @@
 {
-    "nowInCinema": [
-        {
-            "name": "Побег из Претории",
-            "category": "Триллер",
-            "score": "6.70",
-            "img": "../../img/homePage/poter.png"
-        },
-        {
-            "name": "Джокер",
-            "category": "Триллер, драма, криминал",
-            "score": "8.50",
-            "img": "../../img/homePage/joker.png"
-        },
-        {
-            "name": "Звёздные войны: Скайуокер. Восход",
-            "category": "Фантастика, фэнтези, боевик, приключения",
-            "score": "6.70",
-            "img": "../../img/homePage/img3.png"
-        },
-        {
-            "name": "Джентльмены",
-            "category": "Боевик, комедия, криминал",
-            "score": "8.50",
-            "img": "../../img/homePage/img4.png"
-        },
-        {
-            "name": "Ford против Ferrari",
-            "category": "Биография, спорт, драма, боевик",
-            "score": "8.10",
-            "img": "../../img/homePage/img5.png"
-        },
-        {
-            "name": "3022",
-            "category": "Фантастика, триллер",
-            "score": "4.90",
-            "img": "../../img/homePage/img6.png"
-        },
-        {
-            "name": "Хищные птицы: Потрясающая история Харли Квинн",
-            "category": "Боевик, криминал, комедия",
-            "score": "6.20",
-            "img": "../../img/homePage/img7.png"
-        },
-        {
-            "name": "Плохие парни навсегда",
-            "category": "Боевик, комедия, криминал",
-            "score": "6.90",
-            "img": "../../img/homePage/img8.png"
-        }
-    ]
+  "nowInCinema": [
+    {
+      "name": "Побег из Претории",
+      "category": "Триллер",
+      "score": "6.70",
+      "img": "https://lh3.googleusercontent.com/BJ2Ie-bi3EaGgdI2TqDhnewyd2jYagIoX-keI3L2E0c8jk0VTdfYey4bxUI9ifkTa5-YNh9NOMqGqlhJb_xmWdrwcqdxXWNRLg9ahpBKTrQ2eTrYxamuoGJECjKWsUmhoUbwWhPBev4utsSkB9brPDJPx3e7OpJ4X_cMg86xnlyAo_U2q2APtn7A8RNOxM2MYIJfhRp4GrYcBaUjjU3IIDsvYzHqYgoKBGaWd6EH5vo9YUssqRJpEyrZ6_N7_HETWJTzZftU4nga0c44hnU4Hvg5dCF4ErofbO1BR4gYw13DBoUUMuuGAM8iBniaDmIy8ktZHWq3vSOcHjyPOl_Eqt-2NY-ZDGiH-44FjPUMnMorPzyW0YKhBP77G6-JdW5aprkLCtaPfPhoCM11Xngr_QQ88P_FI2EMlo8Ou3dwAV9Q9ThKvLjBdnDEF88F9sjcughyOjINe_TzUHeFPW5eYIqzEg8jN1XHaNWVYHg6t6u4iPkP2xDXWfgBBG0f5vIawsHhHRNaSSqxaVGcNZTTMj6dKVNfpAftw5QUoO5ppL-w-3Dk939Vbveof1USAR7mdJKGn-mEFV_BFAtoAZMrddMyGhcOnZn6uP91NJ_s1aFOtC88Kldwfmbj9bOyO5Bhc2SUJE7bbFUwV2EWzfyeVXJAQtw2vf4YfgjTi4-_732zW59w3oYWgP3iODjsxOdgGJqv6vZtSc_uSpo-qdRo5CO3x1AfZx1_WtuA1k70swfOxkwVFzYdEARHR6mAXPtQ1YPOs2P6pZNHZ025fap93qvLBqBoCh0jwdNOvoeBAChDE7-W7HcjQW85jTyceU955fbC235_Do90UBuJkB594pcfx6bTmId2gGDQHPR0p_3vK7Qt-371qf72D53XNOjC2sjE2RCpsNe4fFKPabWLKy7gobFRfj1gZoMUPD3pE3ZJ6wzJ=w340-h463-s-no?authuser=0"
+    },
+    {
+      "name": "Джокер",
+      "category": "Триллер, драма, криминал",
+      "score": "8.50",
+      "img": "https://lh3.googleusercontent.com/uUVPL77a62M7-t1pUeu3fXq2_WgIN4pz6P-EzuMB_noPQE_JupGAm_RtO6Ab5NaVLE6w6ho1z3uEan2Tp7eS_8rn8IzCt51hEawKdZwvYlhf4rj0Khv7a1goOhdpZetazbudhIOWEsilnzK7sfRrBc9wXo9jS0g6sQKko8x9z9PkH_YEHAUA84dEiFqWq2Z2ri62BZ4Tuby7OwO6xNMvsaEnKVHqWbPIhmVKm9QRpY5T6zcK4J1VV5GixFmkVdcaSyDqt1IEjrLoi20EwF-RzickriuO-_xoejKoYiBttREmIopyOPtMT6jZFRpwPN_Q6Bpub-LmqvDEpxnKjG2eaAsNslOYUmNRQP2E_wdUzEI8Q3bGDRX2edofAIV7D3ywUkfAtrAzEekFWF7HepOvwnXZzOcAfYtfFDtFFJxmSjGoPJSnXJ7NaHEH5OSMbmyaneJOkayZWvsiCxAiwoj97qQCAfTzVk0cs0fVV0omqqhtzTri1ueINP6-2NjQK44aNiDy3m_xWM72GuJ3rWcJfd33PpCqdoZoN2fI9FCtuCG1F-rl4SldvuqitSbsqYKuayrslaHXZila3_6B0mbf8iXheyr5mesapYH4NWzSdXoq0peYtH_FroRj4L2fCst6jgIKRAbEPBhz3ixPkz0Xj4Z-jtmkY2Mhe0TykyTISc08ik-h8cSdcm0Z314YPEJXZ7NqjVt0yR3fMiIYwOSvnWGHJRQQvBttWXaYX-OOIFkIPeUMghvpnz-JxaLAFP1hKTiAQjBNSMtX9HzvigywO4YJQT9O-yNMe2YbH1BL7aYzj2o9OHdXGtEMEN-9WmzNoE0MEa_ExoKKX0D7sxxdlgIklPI9ejAix8MVHkPqa1wfuQe5s9xzorgNtP8cXrjw4zEYD-O_TpiqkimZ9mvQJ7HGIPfQSO-uVjgHiSIF6eGijCv3=w340-h463-s-no?authuser=0"
+    },
+    {
+      "name": "Звёздные войны: Скайуокер. Восход",
+      "category": "Фантастика, фэнтези, боевик, приключения",
+      "score": "6.70",
+      "img": "https://lh3.googleusercontent.com/GHDEV0wsa6B3iwKeq5srzS-LJGarQVfytUBJ6cienbx0jWVOPvHV9eLGJ31WxW1jqBgLsQyTVCe5vT20R-K1A3Na9ojSGZyoSmM2M2zU5gruOgZ-N4Oj2sygSmmeRUK2Cg9pyCYqPzm_DsKhag7IhNrFheeIMILbByy9rWuS_yR4wqWKV8E_yqe7i0HQr5icSYzT4DoHoJr3sNs2DvqPeGKVPmO-PwpkD0T3dgiVFeYrhH-GHd9Q9_NGxL1mp8j1i6Heb0uEOfein5u3DRJ75Sb4XUpK1t7xqb9p7aP_VQb_ckDsOUj3Qjz6X2xQjumOfsZrM17IjuNqnVs1vXOzM0-V97P_gQtBQpfoCTzicG6qYbnCiOdGjsbnZv5t6hL9HTrlWJqfS2_Iv31bILru060B-x1xtIXypXGPspT4G_8Zeaz6Om1mMGO8--hqwfAv7F7pFenNBxsJhXLynFxgs76GFBrbdCLHeYnJxFA9JeeQNX5y_-wV_JV5DmK1KbWuzT72DU16QUA-tmRvAnqvDB3mNhn83eGIoZ8eBR7kR8brFQC0scHxsywo1tnIF6HMYXDxDIl6i8NhLHE3DHBpITispoDvPIy22J6qQsS2GUOOelU4QWVNZafZZnxqLflJiIWHNPwUQo8J5c2Uz2KpNimuosPl8DCyASZPTysuLn3yUNar-O7xtXShxG3y13PcLW-OrYykuErPyVCpNy80vv518V9pGifIq7PUXjF_9WTHE68moL36xQOQnSQd1yBVkZEat5TjlOJgNgejN8jsEL2BY6-d1Jb8EQXDM-NYtKysbLpQjvZm6241u67NWCINqVN0kFEeDZr0GnPc3e4PoSb3UypX3d924AscJz8sIqGksD-LhzIKLcAaYrazqkX42Mrm8U9jhtU0XVIl20W8dJZAMd7qR56-3JecAMRrv3pYYl5C=w340-h463-s-no?authuser=0"
+    },
+    {
+      "name": "Джентльмены",
+      "category": "Боевик, комедия, криминал",
+      "score": "8.50",
+      "img": "https://lh3.googleusercontent.com/bFFGKts8NT5GsSajTiIBa5dk8l2k4JNJd-m28BaqMbk5rnHccQ19je3y0zzRq38oOwmAZHH0-zzR0B9Jr6aBd2xYXnDaSpVHZcKGMTm3NwqdZ7X9hdSbmWrMzkdtFG-7WUwDNjpjaeJEsH7CUDhe_Wm4DedRS0GezBMhiW8VeiLrcnACnxG7_oEb9SPNr1QD9qZqWZOMgrVGaxK-LeCkFK1Xe7QYvxrvpoe8SIFCsOOVpjMAtiSDJ_SacfIvOOj8zLZMYBe0EghmcAH2RSC7rk3MK8EyUCcV-xos87MqW6zamkNvgFrsrXX2jCNJV2kaTJW9Fxjx4wbl952gIKwFK0AB0g37tST11f_WN4pquEAbZLFQccZjWPJykeMgOjbt6yxJT6DtUdNPloWcoCnzO-mO67ift1OZDxI8f2bWkZy_MkjOyQ-CegS_To7Flsg8nIiKHBNdSLNSGlMVlrDTJNVeatzQrLmWexOzJAPYD0RduhKiWGUIcUQTC1ep9fLFCbdmIZ9YNK6CFV9uT8xxjVIVRa0PBGpJAPXF46SReXoD5VI-mt9NkTexsSo0zFXUKRrwGPKoCvnTSjX9T9xt7rdkaH-nmzeSSznthF0DLn4WwZrqIQM2PuUvPw37fsMph2yNqLNTIHtsf7czb6OnPqOlOfgisXMS5j6DwP-J7U53ihR469A2LXl-v0Rjd-VN6r3A4gbJpCkRsDrFCRu5V7zv6SszYmwTeLrdSlmGp-D36hIJtO2mVJa7Z3OUYxvxahjMlbpsPCkXuTD18D7Di4i__I306FH7VtrWaqowmXram4OIMFqp03ESs2kACvV-hZkCPEgE_48rhlQkHDDKhotmy5e43yd-Ju0zjIdBTgWRi0yD4q2ZQhSPRQJwL82uHwCvQx2piCVI9RrhfZhdVz2Ep1Lo4r4Rqjb3mPtj9N0JriG4=w341-h463-s-no?authuser=0"
+    },
+    {
+      "name": "Ford против Ferrari",
+      "category": "Биография, спорт, драма, боевик",
+      "score": "8.10",
+      "img": "https://lh3.googleusercontent.com/gF2_XppRPQ00QwwzGhrVDljgxMpHlzUj7NRdJzia_b9n5jO31896Ho_IvNcW7pIFGUM-V4Qk6pXpmssypbM_Hb9TawHZ8-pqB660Fd-TP7k9I6xdfOv1bZS8T_qp4NM7xr-nAM1XPugLfszmou_pXn3-Ol-vg-g9wabMDwDCRjI44kK-aeYZ_siKyQeO_Qezdaf9uO5ecFlQmcPTU2IwkBrqXQNPHaxjC08F92LTv237b1pzzzYwqoiVB4_eXS_F2DnfQvg1nQ9wMAbmygN-NPHP3svR-GRs-9pT96hi6RSa3F6oXTUj-EfdoJwV_qRh6n6QJv0Mn9yZ0g2gFktNzPy-KReScp5cl21iFqZXqJosa85pn2VxmXv2WGQuy94bzjFh1O0Gw77k5E9Unl3zNSGuF6OLrjlkVxFwSnKSexmHFZB1H81gUHkjWTxfEQO8TCEcAwELV6HHodjZuzaYcFVclDMKKRGTAbnWS_jeOq--CktxuBdB6CPpA7omDlnz4saU1pDmw7ygekpP4oHrv5A2EyZwrH149HYOh6Wnk3UgXnaJhWxkEG6Gr84Q8hXdsSShukia0wGjiIBJ9T39efueY1MZhyX6MruEz1TlR6JuCr5lt_H8uWFJn5eTie8wlL-vS5IPrumAdeMF7LcQ6b05ztcdoid0CWBCMFHsfavv3gVe7YwLDnEH7-JfBP2UoAFw6-PDa5UBz3L6sKYmsaRyYu6pPVHPBnUIacGOr-vFsDcxqE1ZMYd_vrlr2YIzQnPtLG99TjDg_rL8-9KwDmZRU1xQlGDxUPOASJTBCYXLEka48dSeYPxOveb5LcxcaOolBJR-gftuTgj-onf4Xi3w8U-_rit7LkGPN23DbdHWC4ycfLd194P30E6n99GKrrZOowhLgZfb1UFdRF-K97pUfl64uCoqXnmfO6HM_O1O81dU=w340-h463-s-no?authuser=0"
+    },
+    {
+      "name": "3022",
+      "category": "Фантастика, триллер",
+      "score": "4.90",
+      "img": "https://lh3.googleusercontent.com/MkmF9mLoaNbf0qv33Jr93dAdV04vZOGaXeAMkB92_Kgpq0N5EQclon0HKBXM9NMRhO2YcbkCwRRO208lYNQi_UooNWY60e0Q5PtxnjD3k7HcEmOsIDinWIQFXkWON3_O4zCMNNSwBbhcPtkuTJtizTpe1YBoBsF_q9DOtsxr2LpXqD_ed_htJBiM8yQNxZkZ0SzVZ6_iAPUQEP1WSwc0Ib76S7_2KAwYm5y4E7PJnyZKrfD-o-Kfes1KXt-ture5ABPAJ2mcO9hPFM75N6oWYr7jv2WH-t3BBw2TK1bnANGJWCjAg3mVjTiynZS5bp4kG1wlUogDpYys5D5ec7Wtjdf7qN8dvnFzk3x74crcPPTPPaONrRBGWAnPk3GYUKFtAOwpjPpGcbtJNdEQDNzisxwlSXT72gefb6r6CXYCAVRUckiPVjE35Pnj5Nn8wOlL-4RbJpWZr4COof--7WO1DLVT68Ab7N_-o1A25C4w1rj1CQV5ZZyhq-vlJTsLUXuAgRfmnlLX8_6mZ63qYyTHUWhsraWwfYdn1ifggkivZUAMp5yrDPWHiAbqi6jIr7XxeBt2X4h-6JWTlhDIxJm1DWpWAOqWoQK5iVer1yxCZNj_Xn5c4xUikPmyE9_0nvSskt6jMJpI7Rbnm3GFcHD4HV9uPZ0dYczlPmOl-ZCTSIwQE8aIGVsUcfbRU6-2jLvTFY9CxsFDg4vUPyEA-AGVECr_UlfQGPHZNc5nj312P6hfDiSzmYbk6gLixk3zo6TRqMooBZYDhrr1cP1r7kZg2DLwnWelhxwtEMdGUxZUyC44WpNUhBbevyRxx_U0IeSSaQhSjdiQoJlNgtJq8Htk2onl4mbKqm9vg1xmzY4OFlDiFxcoHEYX0SAl6Osx2up3czmp1HQQPoYEt9dnJosUV_eZOUrdo04ReUgDDAnBZaZ6Dq0z=w340-h463-s-no?authuser=0"
+    },
+    {
+      "name": "Хищные птицы: Потрясающая история Харли Квинн",
+      "category": "Боевик, криминал, комедия",
+      "score": "6.20",
+      "img": "https://lh3.googleusercontent.com/hoNbEFky3InWCJK8YIW7tK7tDRh38HRFF41MMEZeGhxEZfuuciBACoxxcHKWBDV7MPQj4LlTSmzRlK2CTdqCbK-TaEiNPXu7LQEkbc5mc7elbV9h3-9oWIHZ-dpTHn8RHgOGbKvvTWimp-OextWk8TxlORYvyHoHm5aH3hcjitWpTHbViGt-dRS6Lfv5S1ZBxfdNABjdIIvbVntrumjWt5qMMM4LJD0AC5cc1xGcuFgXkT2lzHcwM6vn1FcP9lIuNxJvNlfWA2u57WPC3FoSWY5Y5UgEokMMCvEHVOXUvTv2sR72Sh9tWF3DxLRwvWAKio0eMd0sTA79oYYkQtxOgaKx7jGgS8Vnrj8Z3mZ5IzK5aUZ9U6l7LbBTijNZMbXqArgmfpfev79Cd71Xeak_9jIt5lRTfhOT-vedM5yBNR2SVmMgjy_wsR7jENDQYmeI40gB37txISFNAm2vLr2MQsgrfd5rXS8qua5wIRU5VuqD6bqcWHT6OV-ZrP0joboxwx1Gy3kKNiCR83HlPiiCJkFWRSVI-0s_7685edF6YMwwDF0eh0456KsFib56rOtPC9fPXym95KSo2kyVcvTcyLMPbGBVMjZC5rf-RtylCWlWtZr4s4iTjKMp-ApQiWxA68uvdGBU9YknsiLKo9xSXCQkjZS0wWOgRwyuqvh_a8vjKaxvPtVTirjBEH_GtrExO3pFAV9ZINW_Bti88JDiCE3cMRc81yetkJvTuikuhagRpomBcBPdtX12LwsfbghFh9c2_MeyKSVL-kHLvHpcC3U4F0_nLLrg01hZuW13aosn2xYWBL1yCLUU2BTKzOJNXtOr0DODwRrbMmwm2wAhqrYxayRvRyeJB3mYOtMP_X9QcxjPM-wFkshsVwkbDwrEJHN-yyLqdkXVtqPrKHsOxz4x8QYDWYeclPfDa7mHTkJ8OT2u=w340-h463-s-no?authuser=0"
+    },
+    {
+      "name": "Плохие парни навсегда",
+      "category": "Боевик, комедия, криминал",
+      "score": "6.90",
+      "img": "https://lh3.googleusercontent.com/TokVC6JOikzDc3U8j2iPqQykJjuZGwwss7oDtsCOyNaN36BB8bLFejZBNfv3eEzbGgZFy9AaCdA6ReadzpIDuQxylrJKqS51Yu6jtxlwVl6Qo4Y9sI57MI4b8kCeANQc70FR1F_RLGgCFhfZYvH3AQ1c1s6Oha_EowDyFAM6khHhYOWLePohcRKUwipRCeXEf8B3bTBm2Zj9uTOVAP66346A1qIrnW-OQpwalr9JB-wpzLFO1ES2n9fENluCoSi903Y3oZK_IJsKNK2jPst4HX75XbUivkwPG-KI1CBybqgAHnP3mqZSGdJpESLB7KGsUCkjM7oAHyhsQtvDQi5mgv06eW-IQROpMWhh5hyyFibxZCMD80T8i0C3Y7C4VCeyHPhXCQYBbgiRhnyCJxeH-LBH2XW-C7ujPxrRSwn23DsIU5kEDWEg5KSz_vVjxLMdjpSJylfIun-T0IQPgU9Tq7XSXilhBiRZU6F5fofMUFze6fNULGXz32ojGh_03CNxcrS7qMwQjutNyayZiJc8CofP9O7em0MIWRFDgdPP8AeHgxZHyisWrejE7-eRgQmZOYYJPGKl-4IV7Vu543w5xSrh-pfROuOmPacC0F2tt3Jz2AXiRRIwUcTbNMVrCl4KxLAHXcsndqWP3DOOZZsahs2YQ70e_f1Elmi_A8roUL7iPzK9HKow4TsPzCrJFS0m5DNCKGjYHG5i5wemG9fvU4QA736b3tKEhc0y_DhJIvQxZj5BPApUAf8rv6vxmy6rihnz1qLDcMBUHE9_5kNyY1wLsUjcNlpB-rE6roxz3VOu8B8ozc6yXXe5XJ6WX2VUyhlGuRz8mLgbCeLbKnMzTmx-oOwbzpxC6_kURLDPPJjKMpXLY46vSw4vp8XfqBuuzoDyVoMuBhLOJtmUKE9z_rWo9isdictVEB9q3N6i8Y-nAFwz=w341-h463-s-no?authuser=0"
+    }
+  ]
 }
