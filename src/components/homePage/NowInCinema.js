@@ -16,7 +16,7 @@ export default function NowInCinema() {
   }, []);
 
   return (
-    <Box>
+    <Box width={"100%"} height={"100%"}  >
       <Box
         sx={{
           width: "100%",
@@ -117,7 +117,7 @@ export default function NowInCinema() {
             marginBottom: "20px"
 
           }} >
-            <img src={item.img} alt="poter" width={"100%"} height={"90%"} />
+            <img src={item.img} alt="poter" width={"100%"} height={"80%"} />
             <span>{item.score}</span>
             <Typography variant="h5">{item.name}</Typography>
             <Typography variant="h6">{item.category}</Typography>

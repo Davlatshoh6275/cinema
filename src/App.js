@@ -25,12 +25,13 @@ export default function App() {
           padding: "0px",
           backgroundImage: `url(${bgImg})`,
           backgroundSize: "cover",
+          bgcolor:"#202536"
         }}
       >
         <Box
           sx={{
             width: "90%",
-            height: "100%",
+            // height: "100%",
             margin: "0 auto",
           }}
         >
@@ -164,10 +165,10 @@ export default function App() {
               </Button>
             </Box>
           </Box>
-          <Box>
+        </Box>
+          <Box sx={{width: "90%", margin: "0 auto", }}>
             <HomePage />
           </Box>
-        </Box>
       </Box>
     </Box>
   );
